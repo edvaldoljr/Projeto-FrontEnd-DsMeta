@@ -2,7 +2,7 @@
 
 # **Projeto DSM Meta**
 
-
+Este código é um documento HTML que descreve um site chamado "DSMeta". O site inclui um cabeçalho com um logotipo, um título e um link para a página do Instagram do desenvolvedor. A seção principal da página exibe dados de vendas em um formato de tabela, incluindo data, fornecedor, número de visitas e vendas, valor total e um botão de notificação. O código CSS vinculado a este documento HTML define a fonte padrão como "Roboto" e define o estilo padrão para elementos como margem e preenchimento.
 
 ## Para desenvolver o projeto DSM Meta, são necessários os seguintes requisitos:
 
@@ -115,6 +115,9 @@
     </main>
   </body>
 </html>
+
+
+
 ```
 
 Este código HTML cria uma página web que mostra informações sobre vendas. O código está estruturado com uma tag <header> para criar um cabeçalho com uma imagem e um título do site, seguido de uma seção <main> que contém uma seção <section id="sales"> que exibe as informações de vendas.
