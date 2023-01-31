@@ -306,19 +306,9 @@ header {
 
 Este é um trecho de código CSS, que é uma linguagem usada para estilizar elementos HTML na web. Este código define a aparência e formatação de um site. Ele inclui definições de fontes, cores, espaçamentos, bordas, tamanhos de texto, etc. Além disso, o código inclui também regras de responsividade, ou seja, como o site se adapta a diferentes tamanhos de tela, usando a media query.
 
-
-
-
-
-
-
-
-
-
-
 ## Acesso o Link:https://edvaldoljr.github.io/Projeto-Devsuperior-Aquecimento-Semana-Spring-React/
 
-![]()
+![](https://github.com/edvaldoljr/Projeto-FrontEnd-DsMeta/blob/main/img/img-projeto.gif?raw=true)
 
 # ⭐️**Deixe um Star** ⭐️
 
