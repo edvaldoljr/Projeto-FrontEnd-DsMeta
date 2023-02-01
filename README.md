@@ -2,6 +2,8 @@
 
 # **Projeto DSM Meta**
 
+![](https://github.com/edvaldoljr/Projeto-FrontEnd-DsMeta/blob/main/img/img-projeto.gif?raw=true)
+
 Este código é um documento HTML que descreve um site chamado "DSMeta". O site inclui um cabeçalho com um logotipo, um título e um link para a página do Instagram do desenvolvedor. A seção principal da página exibe dados de vendas em um formato de tabela, incluindo data, fornecedor, número de visitas e vendas, valor total e um botão de notificação. O código CSS vinculado a este documento HTML define a fonte padrão como "Roboto" e define o estilo padrão para elementos como margem e preenchimento.
 
 ## Para desenvolver o projeto DSM Meta, são necessários os seguintes requisitos:
@@ -309,9 +311,8 @@ header {
 
 Este é um trecho de código CSS, que é uma linguagem usada para estilizar elementos HTML na web. Este código define a aparência e formatação de um site. Ele inclui definições de fontes, cores, espaçamentos, bordas, tamanhos de texto, etc. Além disso, o código inclui também regras de responsividade, ou seja, como o site se adapta a diferentes tamanhos de tela, usando a media query.
 
-## Acesso o Link:https://edvaldoljr.github.io/Projeto-Devsuperior-Aquecimento-Semana-Spring-React/
+## Acesso o Link e confira: https://edvaldoljr.github.io/Projeto-Devsuperior-Aquecimento-Semana-Spring-React/
 
-![](https://github.com/edvaldoljr/Projeto-FrontEnd-DsMeta/blob/main/img/img-projeto.gif?raw=true)
 
 # ⭐️**Deixe um Star** ⭐️
 
